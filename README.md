@@ -1,7 +1,3 @@
-Certainly! Below is a sample README.md file description for your "Watch This" movie Android app on GitHub:
-
----
-
 # Watch This - Movie Android App
 
 Watch This is a modern Android application designed for movie enthusiasts to explore, discover, and keep track of their favorite movies. With a sleek and intuitive user interface, Watch This provides users with a seamless movie-watching experience on their Android devices.
