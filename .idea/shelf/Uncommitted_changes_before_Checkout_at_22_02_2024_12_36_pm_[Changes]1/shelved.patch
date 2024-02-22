@@ -1,0 +1,111 @@
+Index: .idea/appInsightsSettings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/appInsightsSettings.xml b/.idea/appInsightsSettings.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/appInsightsSettings.xml	
+@@ -0,0 +1,45 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="AppInsightsSettings">
++    <option name="tabSettings">
++      <map>
++        <entry key="Android Vitals">
++          <value>
++            <InsightsFilterSettings>
++              <option name="connection">
++                <ConnectionSetting>
++                  <option name="appId" value="com.elearning.e3lm" />
++                </ConnectionSetting>
++              </option>
++              <option name="failureTypes">
++                <list>
++                  <option value="FATAL" />
++                </list>
++              </option>
++              <option name="signal" value="SIGNAL_UNSPECIFIED" />
++              <option name="timeIntervalDays" value="SEVEN_DAYS" />
++              <option name="visibilityType" value="ALL" />
++            </InsightsFilterSettings>
++          </value>
++        </entry>
++        <entry key="Firebase Crashlytics">
++          <value>
++            <InsightsFilterSettings>
++              <option name="connection">
++                <ConnectionSetting>
++                  <option name="appId" value="PLACEHOLDER" />
++                  <option name="mobileSdkAppId" value="" />
++                  <option name="projectId" value="" />
++                  <option name="projectNumber" value="" />
++                </ConnectionSetting>
++              </option>
++              <option name="signal" value="SIGNAL_UNSPECIFIED" />
++              <option name="timeIntervalDays" value="THIRTY_DAYS" />
++              <option name="visibilityType" value="ALL" />
++            </InsightsFilterSettings>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/kotlinc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/kotlinc.xml b/.idea/kotlinc.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/kotlinc.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="KotlinJpsPluginSettings">
++    <option name="version" value="1.9.0" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/vcs.xml	
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="$PROJECT_DIR$" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/deploymentTargetDropDown.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/deploymentTargetDropDown.xml b/.idea/deploymentTargetDropDown.xml
+new file mode 100644
+--- /dev/null	
++++ b/.idea/deploymentTargetDropDown.xml	
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="deploymentTargetDropDown">
++    <value>
++      <entry key="app">
++        <State />
++      </entry>
++    </value>
++  </component>
++</project>
+\ No newline at end of file
